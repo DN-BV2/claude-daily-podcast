@@ -10,6 +10,14 @@
 <itunes:category text="Technology"/>
 <atom:link href="https://dn-bv2.github.io/claude-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Skills, MCP-Connectors und Plugins – was ist der Unterschied?</title>
+<description>Zweite Folge: Wie sich Skills, MCP-Connectors und Plugins unterscheiden und was das fuer den bv2-Alltag bedeutet.</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-07-29.mp3" length="1177363" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-07-29</guid>
+<pubDate>Wed, 29 Jul 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:02:38</itunes:duration>
+</item>
+<item>
 <title>Cowork vs. Claude Code – was ist der Unterschied?</title>
 <description>Erste Folge: Der Unterschied zwischen Cowork und Claude Code, Plugins und was das fuer den bv2-Alltag bedeutet.</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-07-28.mp3" length="1365367" type="audio/mpeg"/>
