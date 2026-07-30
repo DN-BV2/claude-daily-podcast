@@ -9,6 +9,8 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Technology"/>
 <atom:link href="https://dn-bv2.github.io/claude-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
+<image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
 <title>Claude Artefakte – von der Preview zur Mini-App</title>
 <description>Dritte Folge: Was Artefakte (Artifacts) in Claude heute koennen, wie sie sich seit 2024 weiterentwickelt haben und wo die Grenzen liegen – mit Beispielen aus dem IT-Support-Alltag.</description>
