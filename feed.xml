@@ -10,6 +10,14 @@
 <itunes:category text="Technology"/>
 <atom:link href="https://dn-bv2.github.io/claude-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Claude Artefakte – von der Preview zur Mini-App</title>
+<description>Dritte Folge: Was Artefakte (Artifacts) in Claude heute koennen, wie sie sich seit 2024 weiterentwickelt haben und wo die Grenzen liegen – mit Beispielen aus dem IT-Support-Alltag.</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-07-30.mp3" length="1643692" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-07-30</guid>
+<pubDate>Thu, 30 Jul 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:03:40</itunes:duration>
+</item>
+<item>
 <title>Skills, MCP-Connectors und Plugins – was ist der Unterschied?</title>
 <description>Zweite Folge: Wie sich Skills, MCP-Connectors und Plugins unterscheiden und was das fuer den bv2-Alltag bedeutet.</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-07-29.mp3" length="1177363" type="audio/mpeg"/>
