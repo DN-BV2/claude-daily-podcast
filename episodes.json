@@ -22,5 +22,16 @@
     "file": "episode-2026-07-30.mp3",
     "size": 1643692,
     "duration": "00:03:40"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Claude Code fuer GitHub-Workflows – vom Tool-Chaos zum KI-Layer",
+    "description": "Vierte Folge: Wie Claude Code Repos, Commits, Branches und Pull Requests in einem einzigen Werkzeug buendelt, mit Praxisbeispielen aus dem IT-Support-Alltag.",
+    "file": "episode-2026-07-31.mp3",
+    "size": 1643240,
+    "duration": "00:03:39",
+    "source_name": "Christoph Magnussen",
+    "source_format": "Podcast AI to the DNA (Folge im OMR Tech Check Podcast: \"KI-Layer statt Tool-Chaos\")",
+    "source_url": "https://podcasts.apple.com/de/podcast/christoph-magnussen-ki-layer-statt-tool-chaos/id1872339917?i=1000761203970"
   }
 ]

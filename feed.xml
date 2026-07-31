@@ -12,6 +12,14 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
+<title>Claude Code fuer GitHub-Workflows – vom Tool-Chaos zum KI-Layer</title>
+<description>Vierte Folge: Wie Claude Code Repos, Commits, Branches und Pull Requests in einem einzigen Werkzeug buendelt, mit Praxisbeispielen aus dem IT-Support-Alltag. Mit einem Praxis-Einblick von Christoph Magnussen (Podcast AI to the DNA, Folge "KI-Layer statt Tool-Chaos" im OMR Tech Check Podcast): https://podcasts.apple.com/de/podcast/christoph-magnussen-ki-layer-statt-tool-chaos/id1872339917?i=1000761203970</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-07-31.mp3" length="1643240" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-07-31</guid>
+<pubDate>Fri, 31 Jul 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:03:39</itunes:duration>
+</item>
+<item>
 <title>Claude Artefakte – von der Preview zur Mini-App</title>
 <description>Dritte Folge: Was Artefakte (Artifacts) in Claude heute koennen, wie sie sich seit 2024 weiterentwickelt haben und wo die Grenzen liegen – mit Beispielen aus dem IT-Support-Alltag.</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-07-30.mp3" length="1643692" type="audio/mpeg"/>
