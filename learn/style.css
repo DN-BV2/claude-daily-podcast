@@ -241,3 +241,14 @@ audio { width: 100%; margin-top: 6px; }
   border-radius: 4px;
   margin-right: 6px;
 }
+
+.install-hint {
+  margin-top: 10px;
+  font-size: 0.82rem;
+  color: var(--accent-dark);
+  background: #eaf0fe;
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 8px;
+}
+.install-hint:empty { display: none; }

@@ -216,7 +216,40 @@
     rerender();
   }
 
+  function isStandalone() {
+    return (
+      window.matchMedia("(display-mode: standalone)").matches ||
+      window.navigator.standalone === true
+    );
+  }
+
+  function isIOS() {
+    return /iphone|ipad|ipod/i.test(window.navigator.userAgent);
+  }
+
+  function renderInstallHint() {
+    const hintEl = document.getElementById("install-hint");
+    if (!hintEl || isStandalone()) return;
+    if (isIOS()) {
+      hintEl.textContent =
+        "Tipp: Als App installieren \u2013 unten auf das Teilen-Symbol tippen, dann \"Zum Home-Bildschirm\".";
+    } else {
+      hintEl.textContent =
+        "Tipp: Diese Seite laesst sich ueber das Browser-Menue als App installieren.";
+    }
+  }
+
+  function registerServiceWorker() {
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("./sw.js").catch(function (err) {
+        console.error("SW registration failed", err);
+      });
+    }
+  }
+
   async function init() {
+    renderInstallHint();
+    registerServiceWorker();
     const root = document.getElementById("app");
     root.innerHTML = "<p>Lade Module ...</p>";
     try {
