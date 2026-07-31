@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2026-07-28",
+    "area": "Cowork",
+    "summary": "Cowork und Claude Code sind zwei verschiedene Wege, mit Claude zu arbeiten. Cowork ist fuer den Alltag von Nicht-Entwicklern gedacht: Ordner verbinden, Skills nutzen, Aufgaben planen, Dateien erzeugen - alles ueber eine Oberflaeche im Chat. Claude Code ist ein Kommandozeilen-Werkzeug fuer Entwickler, das direkt im Terminal mit Code-Repositories arbeitet, Dateien aendert und Git-Befehle ausfuehrt. Beide koennen durch Plugins erweitert werden, also gebuendelte Pakete aus Skills, Tools und Verbindungen zu externen Diensten.",
+    "takeaways": [
+      "Cowork = Aufgaben & Dateien im Alltag automatisieren, ohne Programmierkenntnisse.",
+      "Claude Code = Terminal-Werkzeug fuer Entwickler, arbeitet direkt in Code-Repos.",
+      "Plugins buendeln Skills, MCP-Connectors und Tools und lassen sich in beiden Umgebungen installieren."
+    ],
+    "quiz": [
+      {
+        "q": "Wofuer ist Cowork in erster Linie gedacht?",
+        "choices": [
+          "Kommandozeilen-Programmierung fuer Entwickler",
+          "Alltags-Automatisierung von Dateien und Aufgaben ohne Code",
+          "Nur zum Chatten ohne Werkzeuge",
+          "Ausschliesslich fuer Datenbank-Migrationen"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Was ist Claude Code?",
+        "choices": [
+          "Ein Cowork-Skill",
+          "Ein Kommandozeilen-Tool, das direkt mit Code-Repos arbeitet",
+          "Eine Excel-Erweiterung",
+          "Ein Chat-Interface ohne Dateizugriff"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Was buendelt ein Plugin?",
+        "choices": [
+          "Nur Bilder",
+          "Skills, MCP-Connectors und Tools in einem installierbaren Paket",
+          "Nur Kalendereintraege",
+          "Ausschliesslich Passwoerter"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "area": "Cowork",
+    "summary": "Skills, MCP-Connectors und Plugins klingen aehnlich, sind aber unterschiedliche Bausteine. Ein Skill ist eine gespeicherte Anleitung fuer eine bestimmte Aufgabe, die Claude bei Bedarf laedt, zum Beispiel fuer die bv2-Abrechnung. Ein MCP-Connector verbindet Claude mit einem externen System wie Teams, GitHub oder dem bv2Cockpit, damit Claude dort wirklich lesen und schreiben kann, nicht nur darueber reden. Ein Plugin ist die Verpackung: Es kann mehrere Skills und Connectors gemeinsam installierbar machen.",
+    "takeaways": [
+      "Skill = gespeichertes Wissen/Anleitung fuer eine konkrete Aufgabe.",
+      "MCP-Connector = echte Verbindung zu einem externen Tool oder System.",
+      "Plugin = Sammelpaket aus mehreren Skills und Connectors, das man als Ganzes installiert."
+    ],
+    "quiz": [
+      {
+        "q": "Was ist ein Skill am ehesten?",
+        "choices": [
+          "Eine Live-Verbindung zu einer externen API",
+          "Eine gespeicherte Anleitung fuer eine bestimmte Aufgabe",
+          "Ein Passwort-Manager",
+          "Ein E-Mail-Postfach"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Wofuer braucht man einen MCP-Connector?",
+        "choices": [
+          "Um Claude schneller antworten zu lassen",
+          "Um Claude echten Zugriff auf ein externes System wie Teams oder GitHub zu geben",
+          "Um Texte zu uebersetzen",
+          "Um das Design von Claude zu aendern"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Was zeichnet ein Plugin aus?",
+        "choices": [
+          "Es ist nur ein einzelnes Bild",
+          "Es buendelt mehrere Skills und Connectors zu einem installierbaren Paket",
+          "Es ersetzt den Browser",
+          "Es funktioniert nur offline"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "area": "Claude AI",
+    "summary": "Artefakte in Claude haben sich seit 2024 stark weiterentwickelt: von einer einfachen Vorschau fuer Code oder Text zu kleinen interaktiven Mini-Apps mit Diagrammen, Formularen oder Spielen. Sie laufen in einer sicheren, abgeschotteten Umgebung im Browser. Wichtige Grenze: Artefakte duerfen keinen dauerhaften Browser-Speicher wie localStorage nutzen, Daten muessen waehrend der Sitzung im Arbeitsspeicher bleiben. Fuer den Support-Alltag eignen sich Artefakte zum Beispiel fuer kleine Dashboards oder Rechner, die man direkt im Chat zeigen kann.",
+    "takeaways": [
+      "Artefakte waren zuerst reine Vorschauen, sind heute interaktive Mini-Apps.",
+      "Sie laufen sicher abgeschottet im Browser, ohne dauerhaften Speicherzugriff wie localStorage.",
+      "Gut geeignet fuer schnelle Dashboards, Rechner oder Visualisierungen direkt im Chat."
+    ],
+    "quiz": [
+      {
+        "q": "Was konnten Artefakte urspruenglich vor allem?",
+        "choices": [
+          "Interaktive Mini-Apps mit Datenbankzugriff",
+          "Eine einfache Vorschau von Code oder Text anzeigen",
+          "Automatisch E-Mails versenden",
+          "Passwoerter speichern"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Welche Einschraenkung gilt fuer Artefakte?",
+        "choices": [
+          "Sie duerfen kein CSS verwenden",
+          "Sie duerfen keinen dauerhaften Browser-Speicher wie localStorage nutzen",
+          "Sie duerfen keine Farben anzeigen",
+          "Sie funktionieren nur auf dem Handy"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Wofuer eignen sich Artefakte im Support-Alltag gut?",
+        "choices": [
+          "Fuer dauerhafte Kundendatenbanken",
+          "Fuer schnelle Dashboards, Rechner oder Visualisierungen im Chat",
+          "Fuer die Lohnbuchhaltung",
+          "Fuer die Server-Administration per SSH"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "area": "GitHub",
+    "summary": "Claude Code buendelt Programmieren, Versionsverwaltung und Pull-Request-Arbeit in einem Werkzeug. Grundbegriffe: Ein Repo ist der Projektordner mit voller Aenderungsgeschichte, ein Commit ist ein gespeicherter Aenderungsschritt, ein Branch ein Nebenpfad zum gefahrlosen Ausprobieren, und ein Pull Request die Anfrage, diesen Nebenpfad wieder mit der Hauptversion zusammenzufuehren. Christoph Magnussen beschreibt im OMR Tech Check Podcast, wie er bewusst auf visuelle No-Code-Tools wie Zapier oder n8n verzichtet und stattdessen mit Claude Code direkt im Code sogenannte Layered-Prompt-Systeme baut - fuer ihn der Unterschied zwischen echten KI-Profis und blossen Tool-Touristen.",
+    "takeaways": [
+      "Repo, Commit, Branch und Pull Request sind die Grundbausteine der GitHub-Zusammenarbeit.",
+      "Claude Code kann Code schreiben, committen und sogar Pull Requests eroeffnen - alles in einem Werkzeug.",
+      "Christoph Magnussen: Lieber ein Werkzeug richtig beherrschen (KI-Layer) als viele Tools nur oberflaechlich nutzen (Tool-Chaos)."
+    ],
+    "quiz": [
+      {
+        "q": "Was ist ein Branch?",
+        "choices": [
+          "Der Name des Repos",
+          "Ein Nebenpfad, um Aenderungen gefahrlos auszuprobieren",
+          "Eine Sicherheitskopie der ganzen Firma",
+          "Ein Kommentar in einem Issue"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Wozu dient ein Pull Request?",
+        "choices": [
+          "Um einen Branch wieder mit der Hauptversion zusammenzufuehren, meist nach einem Review",
+          "Um eine E-Mail an den Kunden zu senden",
+          "Um ein Repo zu loeschen",
+          "Um ein Backup zu starten"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Was meint Christoph Magnussen mit 'KI-Layer statt Tool-Chaos'?",
+        "choices": [
+          "Man sollte moeglichst viele verschiedene No-Code-Tools gleichzeitig nutzen",
+          "Er baut lieber Layered-Prompt-Systeme direkt im Code mit Claude Code, statt viele Klick-Tools zu kombinieren",
+          "KI-Tools sollten nie im Code eingesetzt werden",
+          "Tool-Chaos ist notwendig fuer gute Ergebnisse"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+]
