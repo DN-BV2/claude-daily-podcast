@@ -100,21 +100,31 @@
       audioTag = '<audio controls src="../' + ep.file + '"></audio>';
     }
 
-    let videoTag = "";
-    if (content.video_id) {
-      videoTag =
+    function embedBlock(videoId, title, badge) {
+      return (
         '<div class="video-wrap">' +
         '<div class="video-embed">' +
-        '<iframe src="https://www.youtube.com/embed/' + content.video_id + '" ' +
-        'title="' + (content.video_title || "YouTube-Video") + '" ' +
+        '<iframe src="https://www.youtube.com/embed/' + videoId + '" ' +
+        'title="' + (title || "YouTube-Video") + '" ' +
         'frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
         "</div>" +
-        '<p class="video-caption">Video: ' + (content.video_title || "") + "</p>" +
-        "</div>";
+        '<p class="video-caption">' + (badge ? '<span class="magnussen-badge">Christoph Magnussen</span> ' : "Video: ") +
+        (title || "") +
+        "</p>" +
+        "</div>"
+      );
+    }
+
+    let videoTag = "";
+    if (content.video_id) {
+      videoTag += embedBlock(content.video_id, content.video_title, content.video_is_magnussen);
     } else if (content.article_url) {
       videoTag =
         '<p class="video-caption">Vertiefender Artikel: <a href="' + content.article_url +
         '" target="_blank" rel="noopener">' + content.article_title + "</a></p>";
+    }
+    if (content.magnussen_video_id) {
+      videoTag += embedBlock(content.magnussen_video_id, content.magnussen_video_title, true);
     }
 
     let sourceTag = "";

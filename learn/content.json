@@ -41,7 +41,9 @@
       }
     ],
     "video_id": "7ARDzYISg-k",
-    "video_title": "Claude Code vs Cowork einfach erklaert: DAS ist der Unterschied!"
+    "video_title": "Claude Code vs Cowork einfach erklaert: DAS ist der Unterschied!",
+    "magnussen_video_id": "vLwfguLz_qQ",
+    "magnussen_video_title": "Christoph Magnussen: Das ULTIMATIVE Claude Code Tutorial 2026"
   },
   {
     "date": "2026-07-29",
@@ -172,7 +174,8 @@
         "correct": 1
       }
     ],
-    "article_title": "Claude Code mit GitHub: Commits, PRs & Workflow (2026)",
-    "article_url": "https://kopfundstift.de/claude-code-github/"
+    "video_id": "Xj9J7q8sBSM",
+    "video_title": "Christoph Magnussen: KI-Implementierungen scheitern nie am Tool - immer an den Menschen (OMR Tech Check)",
+    "video_is_magnussen": true
   }
 ]

@@ -228,3 +228,16 @@ audio { width: 100%; margin-top: 6px; }
   color: var(--muted);
   margin: 6px 0 0;
 }
+
+.magnussen-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #fff;
+  background: var(--accent-dark);
+  padding: 2px 7px;
+  border-radius: 4px;
+  margin-right: 6px;
+}
