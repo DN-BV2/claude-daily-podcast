@@ -100,6 +100,23 @@
       audioTag = '<audio controls src="../' + ep.file + '"></audio>';
     }
 
+    let videoTag = "";
+    if (content.video_id) {
+      videoTag =
+        '<div class="video-wrap">' +
+        '<div class="video-embed">' +
+        '<iframe src="https://www.youtube.com/embed/' + content.video_id + '" ' +
+        'title="' + (content.video_title || "YouTube-Video") + '" ' +
+        'frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
+        "</div>" +
+        '<p class="video-caption">Video: ' + (content.video_title || "") + "</p>" +
+        "</div>";
+    } else if (content.article_url) {
+      videoTag =
+        '<p class="video-caption">Vertiefender Artikel: <a href="' + content.article_url +
+        '" target="_blank" rel="noopener">' + content.article_title + "</a></p>";
+    }
+
     let sourceTag = "";
     if (ep.source_name) {
       sourceTag =
@@ -123,6 +140,7 @@
       '<div class="module-body" id="body-' + ep.date + '">' +
       "<p>" + content.summary + "</p>" +
       audioTag +
+      videoTag +
       sourceTag +
       "<h4>Zum Mitnehmen</h4>" +
       '<ul class="takeaways">' +

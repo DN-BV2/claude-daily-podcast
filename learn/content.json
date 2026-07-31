@@ -39,7 +39,9 @@
         ],
         "correct": 1
       }
-    ]
+    ],
+    "video_id": "7ARDzYISg-k",
+    "video_title": "Claude Code vs Cowork einfach erklaert: DAS ist der Unterschied!"
   },
   {
     "date": "2026-07-29",
@@ -81,7 +83,9 @@
         ],
         "correct": 1
       }
-    ]
+    ],
+    "video_id": "mfg2G1cNfnc",
+    "video_title": "Claude Code Tutorial: Installation, Agents, MCP, Skills, Hooks & Plugins (Deutsch)"
   },
   {
     "date": "2026-07-30",
@@ -123,7 +127,9 @@
         ],
         "correct": 1
       }
-    ]
+    ],
+    "video_id": "8pmGrnxQgAM",
+    "video_title": "Claude AI fuer Einsteiger 2026: Grundlagen & Artifacts erklaert"
   },
   {
     "date": "2026-07-31",
@@ -165,6 +171,8 @@
         ],
         "correct": 1
       }
-    ]
+    ],
+    "article_title": "Claude Code mit GitHub: Commits, PRs & Workflow (2026)",
+    "article_url": "https://kopfundstift.de/claude-code-github/"
   }
 ]
