@@ -12,6 +12,14 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
+<title>Claude AI Halluzinationen – wann du nicht blind vertrauen solltest</title>
+<description>Sechste Folge: Warum auch Claude manchmal ueberzeugend klingende, aber falsche Antworten erfindet, und wie du das im IT-Support-Alltag der bv2 erkennst und pruefst. Mit einem Praxis-Einblick von Vittorio Emmermann (CEO cierra) (Blogartikel auf cierra.ai (26. Maerz 2026)): https://cierra.ai/wissen/blog/ai-halluzinationen-2026-was-wirklich-hilft</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-04.mp3" length="1705605" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-08-04</guid>
+<pubDate>Tue, 04 Aug 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:03:49</itunes:duration>
+</item>
+<item>
 <title>Geplante Aufgaben in Cowork – KI auf Autopilot</title>
 <description>Fuenfte Folge: Wie geplante Aufgaben (Scheduled Tasks) in Cowork seit der Cloud-Ausfuehrung automatisch im Hintergrund laufen und was das fuer den IT-Support-Alltag der bv2 bedeutet. Mit einem Praxis-Einblick von Christoph Magnussen (Podcast "Arbeit in Progress" (t3n)): https://t3n.de/news/blackboat-ceo-magnussen-das-muss-ein-unternehmen-erfuellen-um-ki-agenten-einzusetzen-1737895/</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-03.mp3" length="1694137" type="audio/mpeg"/>

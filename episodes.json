@@ -44,5 +44,16 @@
     "source_name": "Christoph Magnussen",
     "source_format": "Podcast \"Arbeit in Progress\" (t3n)",
     "source_url": "https://t3n.de/news/blackboat-ceo-magnussen-das-muss-ein-unternehmen-erfuellen-um-ki-agenten-einzusetzen-1737895/"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Claude AI Halluzinationen – wann du nicht blind vertrauen solltest",
+    "description": "Sechste Folge: Warum auch Claude manchmal ueberzeugend klingende, aber falsche Antworten erfindet, und wie du das im IT-Support-Alltag der bv2 erkennst und pruefst.",
+    "file": "episode-2026-08-04.mp3",
+    "size": 1705605,
+    "duration": "00:03:49",
+    "source_name": "Vittorio Emmermann (CEO cierra)",
+    "source_format": "Blogartikel auf cierra.ai (26. Maerz 2026)",
+    "source_url": "https://cierra.ai/wissen/blog/ai-halluzinationen-2026-was-wirklich-hilft"
   }
 ]
