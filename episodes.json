@@ -55,5 +55,18 @@
     "source_name": "Vittorio Emmermann (CEO cierra)",
     "source_format": "Blogartikel auf cierra.ai (26. Maerz 2026)",
     "source_url": "https://cierra.ai/wissen/blog/ai-halluzinationen-2026-was-wirklich-hilft"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Der GitHub-Connector in Claude – Repos, Issues und PRs ohne Kontextwechsel",
+    "description": "Siebte Folge, neu im Vier-Segmente-Format: Deep-Dive zum GitHub-Connector in Claude und Claude Code fuer GitHub-Workflows, News-Rundschau zu Claude Opus 5, OpenAI Astra und Preissenkungen, Microsoft Copilot-Updates und einer KMU-Umfrage aus der Schweiz, sowie ein Blick auf Agentic AI (autonome KI-Agenten) als grosses KI-Thema 2026.",
+    "file": "episode-2026-08-07.mp3",
+    "size": 10398501,
+    "duration": "00:27:04",
+    "deep_dive_area": "GitHub",
+    "general_topic": "Agentic AI (autonome KI-Agenten)",
+    "source_name": "Malcolm Werchota",
+    "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\"",
+    "source_url": "https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT"
   }
 ]

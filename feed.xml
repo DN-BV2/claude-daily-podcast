@@ -12,6 +12,14 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
+<title>Der GitHub-Connector in Claude – Repos, Issues und PRs ohne Kontextwechsel</title>
+<description>Siebte Folge, neu im Vier-Segmente-Format: Deep-Dive zum GitHub-Connector in Claude und Claude Code fuer GitHub-Workflows, News-Rundschau zu Claude Opus 5, OpenAI Astra und Preissenkungen, Microsoft Copilot-Updates und einer KMU-Umfrage aus der Schweiz, sowie ein Blick auf Agentic AI (autonome KI-Agenten) als grosses KI-Thema 2026. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast "Das KI-Kochbuch mit Malcolm Werchota"): https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-07.mp3" length="10398501" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-08-07</guid>
+<pubDate>Fri, 07 Aug 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:27:04</itunes:duration>
+</item>
+<item>
 <title>Claude AI Halluzinationen – wann du nicht blind vertrauen solltest</title>
 <description>Sechste Folge: Warum auch Claude manchmal ueberzeugend klingende, aber falsche Antworten erfindet, und wie du das im IT-Support-Alltag der bv2 erkennst und pruefst. Mit einem Praxis-Einblick von Vittorio Emmermann (CEO cierra) (Blogartikel auf cierra.ai (26. Maerz 2026)): https://cierra.ai/wissen/blog/ai-halluzinationen-2026-was-wirklich-hilft</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-04.mp3" length="1705605" type="audio/mpeg"/>
