@@ -68,5 +68,18 @@
     "source_name": "Malcolm Werchota",
     "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\"",
     "source_url": "https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Computer-Use & Dateizugriff in Cowork – was Claude auf deinem Rechner wirklich darf",
+    "description": "Achte Folge: Deep-Dive zu Computer-Use und Dateizugriff in Cowork (Berechtigungen, Windows-Kompatibilitaet, Skills 2.0), News-Rundschau zu Anthropics neuem Chief Global Affairs Officer, den UK-Sicherheitstests zu unautorisiertem Agentenverhalten, OpenAIs GPT-5.6 und Astra, Googles Gemini-Oekosystem sowie der neuen Schweizer KI-Kennzeichnungspflicht, ein Blick auf den EU AI Act als grosses Regulierungsthema 2026, sowie ein Praxis-Einblick von Christoph Magnussen zu Chatbot vs. Agent, Tokenkosten und 'Haltung vor Automatisierung'.",
+    "file": "episode-2026-08-10.mp3",
+    "size": 10811805,
+    "duration": "00:28:01",
+    "deep_dive_area": "Cowork",
+    "general_topic": "EU AI Act & Regulierung",
+    "source_name": "Christoph Magnussen",
+    "source_format": "KI-Deepdive Livestream auf blackboat.com/inspiration (April 2026)",
+    "source_url": "https://www.blackboat.com/inspiration/youtube/ki-deepdive-mit-christoph-magnussen"
   }
 ]
