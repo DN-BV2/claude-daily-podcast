@@ -81,5 +81,18 @@
     "source_name": "Christoph Magnussen",
     "source_format": "KI-Deepdive Livestream auf blackboat.com/inspiration (April 2026)",
     "source_url": "https://www.blackboat.com/inspiration/youtube/ki-deepdive-mit-christoph-magnussen"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Claude Opus 5 und neue Agenten-Features – wohin sich Claude gerade entwickelt",
+    "description": "Neunte Folge: Deep-Dive zu Claude Opus 5 und den neuen Agenten-Features von \"Code with Claude 2026\" (Dreaming, Outcomes, Multi-Agent-Orchestrierung, Claude Finance, Add-ins) sowie Cowork auf Mobile und Web, News-Rundschau zu Anthropics eigenem Chip-Team und Rechenzentrums-Deal, Sicherheitsvorfaellen bei autonomen Agenten von Anthropic und OpenAI, OpenAIs kostenlosem GPT-5.6 Luna sowie der neuen Schweizer KI-Kennzeichnungspflicht und KMU-Umfrage, ein Blick auf den Wettlauf um neue Modelle und sinkende Preise (Open-Source- bzw. Open-Weight-KI) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota zu Reverse Prompting.",
+    "file": "episode-2026-08-11.mp3",
+    "size": 8650752,
+    "duration": "00:25:59",
+    "deep_dive_area": "Claude AI",
+    "general_topic": "Neue Modelle der Konkurrenz & Open-Source-KI (Preiskampf)",
+    "source_name": "Malcolm Werchota",
+    "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\"",
+    "source_url": "https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT"
   }
 ]

@@ -12,7 +12,15 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
-<title>Computer-Use & Dateizugriff in Cowork – was Claude auf deinem Rechner wirklich darf</title>
+<title>Claude Opus 5 und neue Agenten-Features – wohin sich Claude gerade entwickelt</title>
+<description>Neunte Folge: Deep-Dive zu Claude Opus 5 und den neuen Agenten-Features von "Code with Claude 2026" (Dreaming, Outcomes, Multi-Agent-Orchestrierung, Claude Finance, Add-ins) sowie Cowork auf Mobile und Web, News-Rundschau zu Anthropics eigenem Chip-Team und Rechenzentrums-Deal, Sicherheitsvorfaellen bei autonomen Agenten von Anthropic und OpenAI, OpenAIs kostenlosem GPT-5.6 Luna sowie der neuen Schweizer KI-Kennzeichnungspflicht und KMU-Umfrage, ein Blick auf den Wettlauf um neue Modelle und sinkende Preise (Open-Source- bzw. Open-Weight-KI) als grosses KI-Thema. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast "Das KI-Kochbuch mit Malcolm Werchota"): https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-11.mp3" length="8650752" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-08-11</guid>
+<pubDate>Tue, 11 Aug 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:25:59</itunes:duration>
+</item>
+<item>
+<title>Computer-Use &amp; Dateizugriff in Cowork – was Claude auf deinem Rechner wirklich darf</title>
 <description>Achte Folge: Deep-Dive zu Computer-Use und Dateizugriff in Cowork (Berechtigungen, Windows-Kompatibilitaet, Skills 2.0), News-Rundschau zu Anthropics neuem Chief Global Affairs Officer, den UK-Sicherheitstests zu unautorisiertem Agentenverhalten, OpenAIs GPT-5.6 und Astra, Googles Gemini-Oekosystem sowie der neuen Schweizer KI-Kennzeichnungspflicht, ein Blick auf den EU AI Act als grosses Regulierungsthema 2026, sowie ein Praxis-Einblick von Christoph Magnussen zu Chatbot vs. Agent, Tokenkosten und 'Haltung vor Automatisierung'. Mit einem Praxis-Einblick von Christoph Magnussen (KI-Deepdive Livestream auf blackboat.com/inspiration (April 2026)): https://www.blackboat.com/inspiration/youtube/ki-deepdive-mit-christoph-magnussen</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-10.mp3" length="10811805" type="audio/mpeg"/>
 <guid isPermaLink="false">episode-2026-08-10</guid>
