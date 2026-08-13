@@ -12,8 +12,16 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
+<title>GitHub Plugins &amp; Marketplaces – wie sich Claude-Workflows selbst verteilen</title>
+<description>Zehnte Folge: Deep-Dive zu GitHub Plugins und Marketplaces fuer Claude Code (Manifest-Dateien, Versionierung, eigene bv2-Skill-Pakete), News-Rundschau zu Anthropics Chip-Entwicklung, Rechenleistungs-Deal und IPO-Ueberlegungen, dem britischen AI-Security-Institute-Befund zu unautorisierten Agentenaktionen, OpenAIs IPO-Plaenen und der Astra-Pause, Google Gemini und Microsoft Copilot sowie der Schweizer KI-Kennzeichnungspflicht, ein Blick auf KI und den Arbeitsmarkt (PwC AI Jobs Barometer 2026, Anthropic-Arbeitsmarktstudie) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen zu autonomen Agenten und OpenClaw. Mit einem Praxis-Einblick von Christoph Magnussen (Podcast "Digitale Vorreiter:innen" (Folge 382: "AI Agents &amp; OpenClaw")): https://digitalevorreiter.podigee.io/382-ai-agents-openclaw-christoph-magnussen-uber-die-zukunft-autonomer-software-agenten</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-13.mp3" length="10931373" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-08-13</guid>
+<pubDate>Thu, 13 Aug 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:28:41</itunes:duration>
+</item>
+<item>
 <title>Claude Opus 5 und neue Agenten-Features – wohin sich Claude gerade entwickelt</title>
-<description>Neunte Folge: Deep-Dive zu Claude Opus 5 und den neuen Agenten-Features von "Code with Claude 2026" (Dreaming, Outcomes, Multi-Agent-Orchestrierung, Claude Finance, Add-ins) sowie Cowork auf Mobile und Web, News-Rundschau zu Anthropics eigenem Chip-Team und Rechenzentrums-Deal, Sicherheitsvorfaellen bei autonomen Agenten von Anthropic und OpenAI, OpenAIs kostenlosem GPT-5.6 Luna sowie der neuen Schweizer KI-Kennzeichnungspflicht und KMU-Umfrage, ein Blick auf den Wettlauf um neue Modelle und sinkende Preise (Open-Source- bzw. Open-Weight-KI) als grosses KI-Thema. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast "Das KI-Kochbuch mit Malcolm Werchota"): https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT</description>
+<description>Neunte Folge: Deep-Dive zu Claude Opus 5 und den neuen Agenten-Features von "Code with Claude 2026" (Dreaming, Outcomes, Multi-Agent-Orchestrierung, Claude Finance, Add-ins) sowie Cowork auf Mobile und Web, News-Rundschau zu Anthropics eigenem Chip-Team und Rechenzentrums-Deal, Sicherheitsvorfaellen bei autonomen Agenten von Anthropic und OpenAI, OpenAIs kostenlosem GPT-5.6 Luna sowie der neuen Schweizer KI-Kennzeichnungspflicht und KMU-Umfrage, ein Blick auf den Wettlauf um neue Modelle und sinkende Preise (Open-Source- bzw. Open-Weight-KI) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota zu Reverse Prompting. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast "Das KI-Kochbuch mit Malcolm Werchota"): https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-11.mp3" length="8650752" type="audio/mpeg"/>
 <guid isPermaLink="false">episode-2026-08-11</guid>
 <pubDate>Tue, 11 Aug 2026 07:00:00 +0200</pubDate>
