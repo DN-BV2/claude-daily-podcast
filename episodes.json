@@ -107,5 +107,18 @@
         "source_name": "Christoph Magnussen",
         "source_format": "Podcast \"Digitale Vorreiter:innen\" (Folge 382: \"AI Agents & OpenClaw\")",
         "source_url": "https://digitalevorreiter.podigee.io/382-ai-agents-openclaw-christoph-magnussen-uber-die-zukunft-autonomer-software-agenten"
+    },
+    {
+        "date": "2026-08-14",
+        "title": "Cowork auf Web und Mobile – Claude überall verfügbar",
+        "description": "Elfte Folge: Deep-Dive zu Cowork auf Web und Mobile (Cloud-Sessions, Push-Benachrichtigungen, Compliance-API-Erweiterung), News-Rundschau zu Anthropics IPO-Plänen und Rechenzentrums-Deals, OpenAIs Astra-Stopp und Preissenkungen, Microsofts Copilot-App-Zusammenlegung sowie der Schweizer KI-Kennzeichnungspflicht, ein Blick auf Multimodalität (Bild/Video/Audio) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota zu Sprachnotiz-Produktivitäts-Hacks und Echtzeit-Meeting-Intelligenz.",
+        "file": "episode-2026-08-14.mp3",
+        "size": 10526325,
+        "duration": "00:27:05",
+        "deep_dive_area": "Cowork",
+        "general_topic": "Multimodalität (Bild/Video/Audio)",
+        "source_name": "Malcolm Werchota",
+        "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\"",
+        "source_url": "https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT"
     }
 ]
