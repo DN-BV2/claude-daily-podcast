@@ -12,6 +12,14 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
+<title>GitHub Pull Requests &amp; Code-Reviews mit Claude – vom Issue zum Merge mit vier Augen</title>
+<description>Dreizehnte Folge: Deep-Dive zu Pull Requests und Code-Reviews mit Claude auf GitHub (automatisierte Reviews per GitHub Actions und "@claude review", inline Kommentare, Sicherheitschecks), News-Rundschau zu Anthropics Rekordumsatz und geplanter Decart-Uebernahme vor dem IPO, OpenAIs Preissenkungen und der Marke von 1 Milliarde ChatGPT-Nutzenden, Microsofts Copilot-Zusammenlegung zur Super-App sowie einer Schweizer KMU-Umfrage zu KI, ein Blick auf KI-Ethik und Gesellschaft (Deepfake-Studien und Vertrauen in digitale Inhalte) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota zu einer eigenen KI-Panne live vor Publikum und den Lehren daraus. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast "Das KI-Kochbuch mit Malcolm Werchota", Folge #139 ("Wie mich meine eigene KI vor 30 Leuten blossgestellt hat – 4 Insights aus der Academy")): https://open.spotify.com/episode/3vYHfRzL1XAgb6TRJoEO1R</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-18.mp3" length="10711173" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-08-18</guid>
+<pubDate>Tue, 18 Aug 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:27:46</itunes:duration>
+</item>
+<item>
 <title>Prompting-Techniken bei Claude – wie du bessere Antworten bekommst</title>
 <description>Zwoelfte Folge: Deep-Dive zu Prompting-Techniken bei Claude AI (XML-Tags, Kontext-Reihenfolge, konkrete Beispiele, extended thinking), News-Rundschau zu Anthropics automatischem KI-Wasserzeichen und IPO-Plaenen, OpenAIs Astra-Pause aus Sicherheitsgruenden, dem Microsoft-Copilot-Update ab dem 18. August sowie der Schweizer KI-Kennzeichnungspflicht, ein Blick auf Kuenstliche Intelligenz in der Bildung (Schulen und Hochschulen) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen zu Neugier statt Kontrolle und Prompt Engineering als Schluesselkompetenz. Mit einem Praxis-Einblick von Christoph Magnussen (Podcast "Digitale Vorreiter:innen" (Folge "KI richtig nutzen: Was wirklich zaehlt")): https://digitalevorreiter.podigee.io/344-ki-richtig-nutzen-was-wirklich-zahlt-mit-christoph-magnussen</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-17.mp3" length="10237677" type="audio/mpeg"/>
