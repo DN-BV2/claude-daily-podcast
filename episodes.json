@@ -146,5 +146,18 @@
         "source_name": "Malcolm Werchota",
         "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Folge #139 (\"Wie mich meine eigene KI vor 30 Leuten blossgestellt hat – 4 Insights aus der Academy\")",
         "source_url": "https://open.spotify.com/episode/3vYHfRzL1XAgb6TRJoEO1R"
+    },
+    {
+        "date": "2026-08-20",
+        "title": "MCP-Connectors in Cowork – die gemeinsame Steckdose für Claude, Cowork und Claude Code",
+        "description": "Vierzehnte Folge: Deep-Dive zu MCP-Connectors in Cowork (Connector-Directory, verifizierte vs. Community-Connectors, Custom Connectors, die Google-Workspace-Erweiterung vom 19. August und der Claude-Code-Connector-Zugriff seit dem 5. August), News-Rundschau zu Anthropics Umsatzwachstum und IPO-Plänen, OpenAIs ChatGPT for Teens und Ads-Expansion, Google Pixel 11 mit Gemini und dem Microsoft-Copilot-App-Update sowie der Schweizer KI-Kennzeichnungspflicht und einer KMU-Umfrage, ein Blick auf Künstliche Intelligenz in der Medizin (Schlaganfall-Triage, Ambient Clinical Intelligence, ärztliche Verantwortung) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen aus dem Podcast GOOD WORK zum Drei-Schritte-Modell Catch Up, Work With, Grow Beyond.",
+        "file": "episode-2026-08-20.mp3",
+        "size": 10923141,
+        "duration": "00:28:26",
+        "deep_dive_area": "Cowork",
+        "general_topic": "KI in der Medizin",
+        "source_name": "Christoph Magnussen",
+        "source_format": "Podcast \"GOOD WORK – Der Podcast für zukunftsfähige Arbeitskultur\", Folge 259 (\"KI: Arbeitskultur zwischen Mensch und Maschine\")",
+        "source_url": "https://goodwork.podigee.io/259-der-ton-macht-den-prompt-culture-code-zwischen-mensch-und-maschine-mit-christoph-magnussen-259"
     }
 ]

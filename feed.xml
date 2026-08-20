@@ -12,6 +12,14 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
+<title>MCP-Connectors in Cowork – die gemeinsame Steckdose für Claude, Cowork und Claude Code</title>
+<description>Vierzehnte Folge: Deep-Dive zu MCP-Connectors in Cowork (Connector-Directory, verifizierte vs. Community-Connectors, Custom Connectors, die Google-Workspace-Erweiterung vom 19. August und der Claude-Code-Connector-Zugriff seit dem 5. August), News-Rundschau zu Anthropics Umsatzwachstum und IPO-Plänen, OpenAIs ChatGPT for Teens und Ads-Expansion, Google Pixel 11 mit Gemini und dem Microsoft-Copilot-App-Update sowie der Schweizer KI-Kennzeichnungspflicht und einer KMU-Umfrage, ein Blick auf Künstliche Intelligenz in der Medizin (Schlaganfall-Triage, Ambient Clinical Intelligence, ärztliche Verantwortung) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen aus dem Podcast GOOD WORK zum Drei-Schritte-Modell Catch Up, Work With, Grow Beyond. Mit einem Praxis-Einblick von Christoph Magnussen (Podcast "GOOD WORK – Der Podcast für zukunftsfähige Arbeitskultur", Folge 259 ("KI: Arbeitskultur zwischen Mensch und Maschine")): https://goodwork.podigee.io/259-der-ton-macht-den-prompt-culture-code-zwischen-mensch-und-maschine-mit-christoph-magnussen-259</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-20.mp3" length="10923141" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-08-20</guid>
+<pubDate>Thu, 20 Aug 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:28:26</itunes:duration>
+</item>
+<item>
 <title>GitHub Pull Requests &amp; Code-Reviews mit Claude – vom Issue zum Merge mit vier Augen</title>
 <description>Dreizehnte Folge: Deep-Dive zu Pull Requests und Code-Reviews mit Claude auf GitHub (automatisierte Reviews per GitHub Actions und "@claude review", inline Kommentare, Sicherheitschecks), News-Rundschau zu Anthropics Rekordumsatz und geplanter Decart-Uebernahme vor dem IPO, OpenAIs Preissenkungen und der Marke von 1 Milliarde ChatGPT-Nutzenden, Microsofts Copilot-Zusammenlegung zur Super-App sowie einer Schweizer KMU-Umfrage zu KI, ein Blick auf KI-Ethik und Gesellschaft (Deepfake-Studien und Vertrauen in digitale Inhalte) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota zu einer eigenen KI-Panne live vor Publikum und den Lehren daraus. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast "Das KI-Kochbuch mit Malcolm Werchota", Folge #139 ("Wie mich meine eigene KI vor 30 Leuten blossgestellt hat – 4 Insights aus der Academy")): https://open.spotify.com/episode/3vYHfRzL1XAgb6TRJoEO1R</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-18.mp3" length="10711173" type="audio/mpeg"/>
