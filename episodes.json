@@ -159,5 +159,18 @@
         "source_name": "Christoph Magnussen",
         "source_format": "Podcast \"GOOD WORK – Der Podcast für zukunftsfähige Arbeitskultur\", Folge 259 (\"KI: Arbeitskultur zwischen Mensch und Maschine\")",
         "source_url": "https://goodwork.podigee.io/259-der-ton-macht-den-prompt-culture-code-zwischen-mensch-und-maschine-mit-christoph-magnussen-259"
+    },
+    {
+        "date": "2026-08-21",
+        "title": "Claude Academy – Anthropics neuer Lernhub für den Claude-Alltag",
+        "description": "Fünfzehnte Folge: Deep-Dive zur Claude Academy, Anthropics kostenlosem Lernhub mit Kursen zu KI-Fluency, Claude-Produkten und Claude Code, News-Rundschau zu Anthropics Rekordumsatz von über 65 Milliarden Dollar und geplantem Börsengang im Oktober, OpenAIs Trainingspause aus Sicherheitsgründen und ChatGPT-Ads-Expansion nach Europa, Microsofts neuer Copilot-Superapp und einer Milliarde Gemini-Nutzenden sowie der Schweizer KI-Kennzeichnungspflicht, ein Blick auf Künstliche Intelligenz in der Industrie und Fertigung (Predictive Maintenance, Produktionsplanung, Lieferketten) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota dazu, wie man die besten KI-Anwendungsfälle im eigenen Unternehmen findet.",
+        "file": "episode-2026-08-21.mp3",
+        "size": 10490205,
+        "duration": "00:27:17",
+        "deep_dive_area": "Claude AI",
+        "general_topic": "Künstliche Intelligenz in der Industrie",
+        "source_name": "Malcolm Werchota",
+        "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\"",
+        "source_url": "https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT"
     }
 ]

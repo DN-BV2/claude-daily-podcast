@@ -12,6 +12,14 @@
 <itunes:image href="https://dn-bv2.github.io/claude-daily-podcast/cover.png"/>
 <image><url>https://dn-bv2.github.io/claude-daily-podcast/cover.png</url><title>Claude Daily – Domenics Lernpodcast</title><link>https://dn-bv2.github.io/claude-daily-podcast/</link></image>
 <item>
+<title>Claude Academy – Anthropics neuer Lernhub für den Claude-Alltag</title>
+<description>Fünfzehnte Folge: Deep-Dive zur Claude Academy, Anthropics kostenlosem Lernhub mit Kursen zu KI-Fluency, Claude-Produkten und Claude Code, News-Rundschau zu Anthropics Rekordumsatz von über 65 Milliarden Dollar und geplantem Börsengang im Oktober, OpenAIs Trainingspause aus Sicherheitsgründen und ChatGPT-Ads-Expansion nach Europa, Microsofts neuer Copilot-Superapp und einer Milliarde Gemini-Nutzenden sowie der Schweizer KI-Kennzeichnungspflicht, ein Blick auf Künstliche Intelligenz in der Industrie und Fertigung (Predictive Maintenance, Produktionsplanung, Lieferketten) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota dazu, wie man die besten KI-Anwendungsfälle im eigenen Unternehmen findet. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast "Das KI-Kochbuch mit Malcolm Werchota"): https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT</description>
+<enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-21.mp3" length="10490205" type="audio/mpeg"/>
+<guid isPermaLink="false">episode-2026-08-21</guid>
+<pubDate>Fri, 21 Aug 2026 07:00:00 +0200</pubDate>
+<itunes:duration>00:27:17</itunes:duration>
+</item>
+<item>
 <title>MCP-Connectors in Cowork – die gemeinsame Steckdose für Claude, Cowork und Claude Code</title>
 <description>Vierzehnte Folge: Deep-Dive zu MCP-Connectors in Cowork (Connector-Directory, verifizierte vs. Community-Connectors, Custom Connectors, die Google-Workspace-Erweiterung vom 19. August und der Claude-Code-Connector-Zugriff seit dem 5. August), News-Rundschau zu Anthropics Umsatzwachstum und IPO-Plänen, OpenAIs ChatGPT for Teens und Ads-Expansion, Google Pixel 11 mit Gemini und dem Microsoft-Copilot-App-Update sowie der Schweizer KI-Kennzeichnungspflicht und einer KMU-Umfrage, ein Blick auf Künstliche Intelligenz in der Medizin (Schlaganfall-Triage, Ambient Clinical Intelligence, ärztliche Verantwortung) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen aus dem Podcast GOOD WORK zum Drei-Schritte-Modell Catch Up, Work With, Grow Beyond. Mit einem Praxis-Einblick von Christoph Magnussen (Podcast "GOOD WORK – Der Podcast für zukunftsfähige Arbeitskultur", Folge 259 ("KI: Arbeitskultur zwischen Mensch und Maschine")): https://goodwork.podigee.io/259-der-ton-macht-den-prompt-culture-code-zwischen-mensch-und-maschine-mit-christoph-magnussen-259</description>
 <enclosure url="https://dn-bv2.github.io/claude-daily-podcast/episode-2026-08-20.mp3" length="10923141" type="audio/mpeg"/>
