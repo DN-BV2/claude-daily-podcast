@@ -172,5 +172,18 @@
         "source_name": "Malcolm Werchota",
         "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\"",
         "source_url": "https://open.spotify.com/show/5Eph6u874EN8qGP2q7F7sT"
+    },
+    {
+        "date": "2026-08-24",
+        "title": "GitHub Issues & automatisierte Triage mit Claude – wie KI Fehlermeldungen vorsortiert",
+        "description": "Sechzehnte Folge: Deep-Dive zu automatisierter Issue-Triage auf GitHub mit Claude (GitHub Actions, Labels, Sub-Issues, der Prompt-Injection-Sicherheitsvorfall vom Februar 2026), News-Rundschau zu Anthropics Rekordumsatz von ueber 65 Milliarden Dollar und IPO-Vorbereitungen, OpenAIs Sicherheitspause nach dem Hugging-Face-Vorfall und der Forderung nach einem strengeren California AI Safety Bill, Microsofts Copilot-Update-Welle sowie der Schweizer KI-Kennzeichnungspflicht und einer KMU-Umfrage, ein Blick auf Kuenstliche Intelligenz im Finanzsektor (KI-Agenten im Backoffice, Betrugserkennung, Datensicherheit) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen zu Vibe Engineering und Layered-Prompt-Systemen mit Claude Code.",
+        "file": "episode-2026-08-24.mp3",
+        "size": 10794237,
+        "duration": "00:28:06",
+        "deep_dive_area": "GitHub",
+        "general_topic": "Kuenstliche Intelligenz im Finanzsektor",
+        "source_name": "Christoph Magnussen",
+        "source_format": "OMR Tech Check Podcast, Folge \"KI-Layer statt Tool-Chaos\"",
+        "source_url": "https://podcasts.apple.com/de/podcast/christoph-magnussen-ki-layer-statt-tool-chaos/id1872339917?i=1000761203970"
     }
 ]
