@@ -185,5 +185,18 @@
         "source_name": "Christoph Magnussen",
         "source_format": "OMR Tech Check Podcast, Folge \"KI-Layer statt Tool-Chaos\"",
         "source_url": "https://podcasts.apple.com/de/podcast/christoph-magnussen-ki-layer-statt-tool-chaos/id1872339917?i=1000761203970"
+    },
+    {
+        "date": "2026-08-25",
+        "title": "Skills in Cowork selbst bauen – wie der Skill Creator aus Firmenwissen KI-Werkzeuge macht",
+        "description": "Siebzehnte Folge: Deep-Dive zu Skills in Cowork (eigene SKILL.md-Dateien, der neue Skill Creator mit Trigger-Tests, der Skill-Marketplace mit ueber 1,2 Millionen Skills, bv2s eigene Skills), News-Rundschau zu Anthropics neuem KI-Wasserzeichen und Chief Global Affairs Officer, OpenAIs Teen-ChatGPT und IPO-Vorbereitungen, Microsofts Copilot-Dashboards und Guild Copilots sowie Googles wachsendem Gemini-Oekosystem und der Schweizer KI-Kennzeichnungspflicht, ein Blick auf Kuenstliche Intelligenz in der Cybersecurity (KI-generiertes Phishing, Deepfake-Betrug, autonome Schwachstellensuche) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota dazu, wie Claude 22 Schwachstellen in Firefox fand. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode 127 (\"Der Code, der sich selbst heilt: Wie Claude 22 Schwachstellen in Firefox fand\")): https://podcasts.apple.com/at/podcast/127-der-code-der-sich-selbst-heilt-wie-claude-22-schwachstellen/id1823558282?i=1000755672845&l=en-GB",
+        "file": "episode-2026-08-25.mp3",
+        "size": 11019237,
+        "duration": "00:28:33",
+        "deep_dive_area": "Cowork",
+        "general_topic": "Kuenstliche Intelligenz in der Cybersecurity",
+        "source_name": "Malcolm Werchota",
+        "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode 127 (\"Der Code, der sich selbst heilt: Wie Claude 22 Schwachstellen in Firefox fand\")",
+        "source_url": "https://podcasts.apple.com/at/podcast/127-der-code-der-sich-selbst-heilt-wie-claude-22-schwachstellen/id1823558282?i=1000755672845&l=en-GB"
     }
 ]
