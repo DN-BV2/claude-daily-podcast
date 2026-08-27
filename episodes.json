@@ -198,5 +198,18 @@
         "source_name": "Malcolm Werchota",
         "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode 127 (\"Der Code, der sich selbst heilt: Wie Claude 22 Schwachstellen in Firefox fand\")",
         "source_url": "https://podcasts.apple.com/at/podcast/127-der-code-der-sich-selbst-heilt-wie-claude-22-schwachstellen/id1823558282?i=1000755672845&l=en-GB"
+    },
+    {
+        "date": "2026-08-27",
+        "title": "Claude-Modelle im Vergleich – welches Modell für welche Aufgabe?",
+        "description": "Achtzehnte Folge: Deep-Dive dazu, wann sich welches Claude-Modell lohnt (Haiku 4.5, Sonnet 5, Opus 5, Fable 5 und Extended Thinking), News-Rundschau zu Anthropics Rekordumsatz von ueber 65 Milliarden Dollar und der neuen Chip-Initiative, OpenAIs bewusst gedrosselter Astra-Entwicklung aus Sicherheitsgruenden, Google Gemini 3.6 Flash und Ask Gemini in Google Chat sowie Microsofts neuen Guild Copilots, dazu ein Schweizer KMU-Barometer und die neue Mate-KI-Plattform von Swisswise, ein Blick auf den Energiehunger der Kuenstlichen Intelligenz (Stromverbrauch von Rechenzentren, PUE-Grenzwerte) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen zum Weg vom Tooltourist zum Anwendungs-Weltmeister.",
+        "file": "episode-2026-08-27.mp3",
+        "size": 10912869,
+        "duration": "00:28:45",
+        "deep_dive_area": "Claude AI",
+        "general_topic": "Kuenstliche Intelligenz und Energieverbrauch (Rechenzentren)",
+        "source_name": "Christoph Magnussen",
+        "source_format": "Podcast \"Werde CEO deines Lebens\" (Folge \"Vom Tooltourist zum Anwendungs-Weltmeister\")",
+        "source_url": "https://open.spotify.com/episode/5xNubAky3iP1fJJ2mo4h9u"
     }
 ]
