@@ -224,5 +224,18 @@
         "source_name": "Malcolm Werchota",
         "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Folge #114 (\"OpenClaw: Der Moment, in dem KI-Agenten miteinander zu reden beginnen\")",
         "source_url": "https://podcasts.apple.com/de/podcast/114-openclaw-der-moment-in-dem-ki-agenten-miteinander/id1823558282?i=1000747620683"
+    },
+    {
+        "date": "2026-08-31",
+        "title": "Der eingebaute Browser in Cowork – wie Claude für dich im Web unterwegs ist",
+        "description": "Zwanzigste Folge: Deep-Dive zum neuen eingebauten Browser in Cowork (isoliertes Chromium-Profil getrennt vom privaten Chrome, Grenzen bei Banking-, E-Mail- und SSO-Zugaengen, Prompt-Injection-Schutz, Rollout fuer Pro-, Max- und Team-Konten), News-Rundschau zu Anthropics Rekordumsatz von ueber 65 Milliarden Dollar und Boersengangs-Vorbereitungen, dem 45-Milliarden-Dollar-Rechenzentrums-Deal mit Nscale und der neuen Claudeforce-Partnerschaft mit Salesforce, OpenAIs offiziellem Bericht zum Hugging-Face-Vorfall und gedrosselter Astra-Entwicklung, Googles Gemini mit ueber einer Milliarde Nutzenden und der Abloesung des Google Assistant, Microsofts Copilot-Super-App sowie einer Schweizer KMU-Umfrage, wonach 60 Prozent noch keinen KI-Anwendungsfall im Einsatz haben, ein Blick auf Kuenstliche Intelligenz und Datenschutz (Schweizer nDSG, EU-KI-Gesetz-Transparenzpflichten seit 2. August, ISO 42001) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen zu Autonomie, Kontext und Grenzen bei KI-Agenten.",
+        "file": "episode-2026-08-31.mp3",
+        "size": 10813701,
+        "duration": "00:28:15",
+        "deep_dive_area": "Cowork",
+        "general_topic": "Künstliche Intelligenz und Datenschutz (nDSG/DSGVO/EU-KI-Gesetz)",
+        "source_name": "Christoph Magnussen",
+        "source_format": "KI-Deepdive Livestream (August 2026)",
+        "source_url": "https://www.youtube.com/watch?v=8hBXDntBQaQ"
     }
 ]
