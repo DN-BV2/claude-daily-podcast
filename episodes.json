@@ -237,5 +237,18 @@
         "source_name": "Christoph Magnussen",
         "source_format": "KI-Deepdive Livestream (August 2026)",
         "source_url": "https://www.youtube.com/watch?v=8hBXDntBQaQ"
+    },
+    {
+        "date": "2026-09-01",
+        "title": "Claude in Chrome & Claude in Excel – wenn KI direkt in deinen Werkzeugen mitarbeitet",
+        "description": "Einundzwanzigste Folge: Deep-Dive zu Claude in Chrome (Browser-Copilot in offener Beta fuer alle bezahlten Plaene) und Claude in Excel (KI-gestuetzte Formeln, Pivots und Datenbereinigung direkt in der Tabelle), News-Rundschau zu Anthropics bevorstehendem Boersengang und der Claudeforce-Partnerschaft mit Salesforce, OpenAIs DevDay 2026 und moeglichem IPO sowie Sicherheitsbedenken beim Modell Astra, Microsofts vereinheitlichter Copilot-App und Deep Citations, sowie Schweizer KMU-Foerderprogrammen fuer den KI-Einstieg, ein Blick auf KI-Sicherheit und Alignment (Anthropics hochgestufte Risikoeinschaetzung, Sandbox-Mechanismen, Reward Hacking, der Automated Alignment Researcher) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota dazu, wie Schweizer Arztpraxen jaehrlich hunderttausend Franken durch fehlende KI-Schulung verlieren.",
+        "file": "episode-2026-09-01.mp3",
+        "size": 10492701,
+        "duration": "00:27:15",
+        "deep_dive_area": "Claude AI",
+        "general_topic": "KI-Sicherheit & Alignment",
+        "source_name": "Malcolm Werchota",
+        "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode 73 (\"100.000 CHF Verlust? KI-Schulung fuer Medizinische/r Praxisassistent/in (MPA) & Arztpraxen\")",
+        "source_url": "https://open.spotify.com/episode/0ZfsCBxZZG9sOoB7GvPwuH"
     }
 ]
