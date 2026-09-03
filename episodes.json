@@ -250,5 +250,18 @@
         "source_name": "Malcolm Werchota",
         "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode 73 (\"100.000 CHF Verlust? KI-Schulung fuer Medizinische/r Praxisassistent/in (MPA) & Arztpraxen\")",
         "source_url": "https://open.spotify.com/episode/0ZfsCBxZZG9sOoB7GvPwuH"
+    },
+    {
+        "date": "2026-09-03",
+        "title": "Claude Code: Subagents, Hooks und eigene Slash-Commands – wie du dir eigene KI-Helfer baust",
+        "description": "Zweiundzwanzigste Folge: Deep-Dive zu Subagents, Hooks und Slash-Commands in Claude Code (gespeicherte Prompt-Vorlagen, deterministische Regel-Skripte an Lifecycle-Punkten, isolierte Teilagenten mit eigenem Kontextfenster, sowie das Zusammenspiel mit GitHub Actions und Plugin-Marketplaces), News-Rundschau zu Anthropics neuen Modellen Claude Fable 5.1 und Claude Mythos 5.1, dem eingebauten Browser, dem 35-Milliarden-Dollar-Deal mit Lambda und dem NYSE-Einsatz von Project Glasswing, OpenAIs bevorstehendem DevDay am 29. September und der gedrosselten Astra-Entwicklung, Googles Abloesung des Google Assistant durch Gemini und dem neuen Gemini-3.8-Flash-Modell, Microsofts vereinheitlichter Copilot-App mit Planner-Integration sowie einem neuen kostenlosen Schweizer KI-Innovationsprogramm fuer KMU, ein Blick auf Agentic AI (autonome KI-Agenten als Business-Trend 2026) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen dazu, warum viele Unternehmen die organisatorischen Grundvoraussetzungen fuer KI-Agenten noch gar nicht erfuellen. Mit einem Praxis-Einblick von Christoph Magnussen (Podcast \"t3n Arbeit in Progress\"): https://t3n.de/news/blackboat-ceo-magnussen-das-muss-ein-unternehmen-erfuellen-um-ki-agenten-einzusetzen-1737895/",
+        "file": "episode-2026-09-03.mp3",
+        "size": 10633725,
+        "duration": "00:27:30",
+        "deep_dive_area": "GitHub",
+        "general_topic": "Agentic AI (autonome KI-Agenten)",
+        "source_name": "Christoph Magnussen",
+        "source_format": "Podcast \"t3n Arbeit in Progress\" (Host Stella-Sophie Wojtczak)",
+        "source_url": "https://t3n.de/news/blackboat-ceo-magnussen-das-muss-ein-unternehmen-erfuellen-um-ki-agenten-einzusetzen-1737895/"
     }
 ]
