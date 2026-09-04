@@ -263,5 +263,18 @@
         "source_name": "Christoph Magnussen",
         "source_format": "Podcast \"t3n Arbeit in Progress\" (Host Stella-Sophie Wojtczak)",
         "source_url": "https://t3n.de/news/blackboat-ceo-magnussen-das-muss-ein-unternehmen-erfuellen-um-ki-agenten-einzusetzen-1737895/"
+    },
+    {
+        "date": "2026-09-04",
+        "title": "Live-Artefakte in Cowork – Dashboards, die sich selbst aktualisieren",
+        "description": "Dreiundzwanzigste Folge: Deep-Dive zu Live-Artefakten in Cowork (dauerhafte, interaktive Seiten, die sich bei jedem Oeffnen automatisch mit aktuellen Daten aus verbundenen Connectors wie SharePoint, bv2Cockpit oder Microsoft 365 fuellen, inklusive eingebauter KI-Auswertung und Anbindung an geplante Aufgaben), News-Rundschau zu Anthropics neuen Enterprise Frontier Safeguards (Zero Data Retention plus kundenseitige Missbrauchserkennung), OpenAIs Modell Astra und der erstmals ueberschrittenen kritischen Cybersicherheits-Schwelle, dem anbieteruebergreifenden GitHub Copilot mit Claude Sonnet 5 und Gemini im Modell-Picker sowie einem neuen Schweizer KI-Innovationsprogramm fuer KMU, ein Blick auf Kuenstliche Intelligenz und Arbeitsmarkt (Anthropic-Studie, deutsches IAB/BIBB/GWS-Langfristszenario, US-Kuendigungszahlen von Challenger, Gray and Christmas) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota dazu, wie KI-Agenten aus Bildschirmaufzeichnungen lernen, repetitive Buero-Workflows zu automatisieren. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode #149: \"Dein Bildschirm sind die Trainingsdaten: KI lernt deinen Job, indem sie dir zuschaut\"): https://podcasts.apple.com/at/podcast/149-dein-bildschirm-sind-die-trainingsdaten-ki-lernt/id1823558282?i=1000783724797",
+        "file": "episode-2026-09-04.mp3",
+        "size": 10539333,
+        "duration": "00:27:26",
+        "deep_dive_area": "Cowork",
+        "general_topic": "Kuenstliche Intelligenz und Arbeitsmarkt",
+        "source_name": "Malcolm Werchota",
+        "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode #149 (\"Dein Bildschirm sind die Trainingsdaten: KI lernt deinen Job, indem sie dir zuschaut\")",
+        "source_url": "https://podcasts.apple.com/at/podcast/149-dein-bildschirm-sind-die-trainingsdaten-ki-lernt/id1823558282?i=1000783724797"
     }
 ]
