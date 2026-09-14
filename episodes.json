@@ -276,5 +276,18 @@
         "source_name": "Malcolm Werchota",
         "source_format": "Podcast \"Das KI-Kochbuch mit Malcolm Werchota\", Episode #149 (\"Dein Bildschirm sind die Trainingsdaten: KI lernt deinen Job, indem sie dir zuschaut\")",
         "source_url": "https://podcasts.apple.com/at/podcast/149-dein-bildschirm-sind-die-trainingsdaten-ki-lernt/id1823558282?i=1000783724797"
+    },
+    {
+        "date": "2026-09-14",
+        "title": "Claude im Microsoft-365-Postfach – wenn KI Mails schreibt, Termine plant und Dateien verwaltet",
+        "description": "Vierundzwanzigste Folge: Deep-Dive zum offiziellen Microsoft-365-Connector fuer Claude und seinen neuen Write-Tools (Mails entwerfen, versenden und organisieren, Kalender verwalten, Dateien in OneDrive/SharePoint anlegen, standardmaessig deaktiviert, mit Attribution-Header, ohne Anhaenge, Teams weiterhin nur lesend), News-Rundschau zu Anthropics Milliarden-Investitionen von Google und Amazon sowie moeglichem Boersengang im Oktober und dem neuen Threat-Intelligence-Report, OpenAIs holprigem Start von GPT-6 Astra mit historischer Kritisch-Einstufung im Cyberbereich und Altmans oeffentlicher Entschuldigung, Googles Gemini 3.8 Flash und der Abloesung des Google Assistant, Microsofts neuer Modellauswahl direkt in Copilot Cowork sowie einem neuen Schweizer KI-Innovationsprogramm fuer KMU, ein Blick auf die Sicherheitsbremse bei neuen KI-Modellen (GPT-6 Astra als erstes Modell mit Kritisch-Rating, Anthropics AI-Safety-Levels als Vorbild) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen vom AI Officer Update Day zu rechtlichen und vertraglichen Fragen bei Agentic AI. Mit einem Praxis-Einblick von Christoph Magnussen (AI Officer Update Day von Blackboat und HAERTING Rechtsanwaelte, 2. September 2026, zu Agentic AI, Datenschutz und Vertragsgestaltung mit KI-Anbietern): https://www.blackboat.com/academy/ai-officer-update-day",
+        "file": "episode-2026-09-14.mp3",
+        "size": 10427277,
+        "duration": "00:27:20",
+        "deep_dive_area": "Claude AI",
+        "general_topic": "Neue Modelle von Wettbewerbern (GPT-6 Astra Sicherheitseinstufung)",
+        "source_name": "Christoph Magnussen",
+        "source_format": "AI Officer Update Day (Blackboat, in Kooperation mit HAERTING Rechtsanwaelte, 2. September 2026) — Schwerpunkte: Agentic AI, Datenschutz und KI, Vertragsgestaltung mit KI-Anbietern, Umsetzung der KI-Verordnung",
+        "source_url": "https://www.blackboat.com/academy/ai-officer-update-day"
     }
 ]
