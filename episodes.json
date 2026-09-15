@@ -289,5 +289,18 @@
         "source_name": "Christoph Magnussen",
         "source_format": "AI Officer Update Day (Blackboat, in Kooperation mit HAERTING Rechtsanwaelte, 2. September 2026) — Schwerpunkte: Agentic AI, Datenschutz und KI, Vertragsgestaltung mit KI-Anbietern, Umsetzung der KI-Verordnung",
         "source_url": "https://www.blackboat.com/academy/ai-officer-update-day"
+    },
+    {
+        "date": "2026-09-15",
+        "title": "GitHub-Sicherheit im Claude-Workflow – Rechte-Filterung, Secret Scanning und neue Werkzeuge",
+        "description": "Fuenfundzwanzigste Folge: Deep-Dive zu den Sicherheitsleitplanken im offiziellen GitHub-Connector fuer Claude (automatische Filterung der verfuegbaren Werkzeuge nach Token-Berechtigung, das seit Mai 2026 allgemein verfuegbare Secret-Protection-Toolset gegen versehentlich eingecheckte Passwoerter, neue Copilot-Spaces- und Support-Dokumentations-Werkzeuge), News-Rundschau zu Anthropics Milliarden-Investitionen von Google und Amazon sowie moeglichem Boersengang im Oktober an der Nasdaq und dem neuen Threat-Intelligence-Report zu Iran und Russland, OpenAIs GPT-6 Astra, der neuen Agents-API und Sam Altmans Offenheit fuer eine bewusste Drosselung der Entwicklung, den Modell-Ausmusterungen bei GitHub Copilot seit dem 1. September zugunsten von Claude Sonnet 5 und Claude Opus 5, sowie dem Schweizer KI-Innovationsprogramm des Kantons Zuerich und einer Dun-and-Bradstreet-Umfrage zum KI-Nutzen bei Schweizer KMU, ein Blick auf Open-Source-KI (DeepSeek V4.1 Flash, Qwen3.8, Mistral Small 4 und die Abwaegung zwischen Datenhoheit und Komfort) als grosses KI-Thema, sowie ein Praxis-Einblick von Malcolm Werchota aus seinem Kurzformat AI Neanderthal zur Luecke zwischen behaupteten und tatsaechlich gemessenen KI-Erfolgszahlen bei der Deutschen Telekom und SAP. Mit einem Praxis-Einblick von Malcolm Werchota (Podcast \"AI Neanderthal by Malcolm Werchota\", Folge #3 (\"Thirty Claimed. Three Real\")): https://podcasts.apple.com/au/podcast/3-thirty-claimed-three-real/id6801816657?i=1000783910269",
+        "file": "episode-2026-09-15.mp3",
+        "size": 10267365,
+        "duration": "00:26:33",
+        "deep_dive_area": "GitHub",
+        "general_topic": "Open-Source-KI (offene Modelle)",
+        "source_name": "Malcolm Werchota",
+        "source_format": "Podcast \"AI Neanderthal by Malcolm Werchota\", Folge #3 (\"Thirty Claimed. Three Real\")",
+        "source_url": "https://podcasts.apple.com/au/podcast/3-thirty-claimed-three-real/id6801816657?i=1000783910269"
     }
 ]
