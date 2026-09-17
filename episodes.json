@@ -302,5 +302,18 @@
         "source_name": "Malcolm Werchota",
         "source_format": "Podcast \"AI Neanderthal by Malcolm Werchota\", Folge #3 (\"Thirty Claimed. Three Real\")",
         "source_url": "https://podcasts.apple.com/au/podcast/3-thirty-claimed-three-real/id6801816657?i=1000783910269"
+    },
+    {
+        "date": "2026-09-17",
+        "title": "Cowork wird Teil von Claude – Docs, Slides und ein neues Kapitel beim KI-Urheberrecht",
+        "description": "Sechsundzwanzigste Folge: Deep-Dive zur Zusammenlegung von Claude Cowork und Claude Chat (\"Cowork ist jetzt einfach Claude\", Rollout ab dem 16. September 2026) mit den neuen Beta-Bausteinen Claude Docs, Claude Slides und Claude Design, vereinfachten Berechtigungsmodi (Manuell/Auto), Sub-Agent-Koordination und Cloud-Sessions mit geteiltem Gedaechtnis zwischen Chat und Cowork, News-Rundschau zu Anthropics Milliarden-Investitionen von Google und Amazon sowie einem moeglichen Boersengang im Oktober bei rund 800 Milliarden Dollar, der Claudeforce-Partnerschaft mit Salesforce, dem Sicherheitsvorfall rund um das zurueckgehaltene Modell Mythos und Anthropics Threat-Intelligence-Bericht zu Iran und Russland, OpenAIs GPT-6 Astra und getesteten Sponsored Agents mit Wayfair und Angi, Googles neuer nativer Gemini-App fuer Windows sowie Microsofts GitHub-Copilot-Modellwechsel zu Claude Sonnet 5 und Opus 5, dazu einer AXA-Studie zu Schweizer KMU und KI, ein Blick auf Kuenstliche Intelligenz und Urheberrecht (BGH-Verhandlung zu KI-Trainingsdaten, GEMA gegen OpenAI, Carlsen Verlag gegen OpenAI, Artikel 53 der EU-KI-Verordnung, Schweizer Rechtslage) als grosses KI-Thema, sowie ein Praxis-Einblick von Christoph Magnussen zu generativer KI in der Content-Erstellung und dem Mut zum kontrollierten Ausprobieren. Mit einem Praxis-Einblick von Christoph Magnussen (Marketing Transformation Podcast, Folge #215, mit Erik Siekmann, zu generativer KI in der Content-Erstellung, SEO und Mitarbeiterbefaehigung): https://open.spotify.com/episode/6x0u76jemxeqtqmCMxAyc8",
+        "file": "episode-2026-09-17.mp3",
+        "size": 10737357,
+        "duration": "00:27:50",
+        "deep_dive_area": "Cowork",
+        "general_topic": "Kuenstliche Intelligenz und Urheberrecht",
+        "source_name": "Christoph Magnussen",
+        "source_format": "Marketing Transformation Podcast, Folge #215 (mit Erik Siekmann)",
+        "source_url": "https://open.spotify.com/episode/6x0u76jemxeqtqmCMxAyc8"
     }
 ]
